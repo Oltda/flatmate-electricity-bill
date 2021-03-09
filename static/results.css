@@ -1,0 +1,27 @@
+h2 {
+    color: darkgrey;
+    text-align: center;
+    font-size: 50px;
+}
+
+body {
+    background-color: GhostWhite;
+    padding: 20px;
+}
+
+div {
+    position: relative;
+    background-color: CornflowerBlue;
+    width: 40%;
+    padding: 10px 10px;
+    left: 50%;
+    transform: translateX(-50%);
+    border-radius: 10px;
+}
+
+p{
+    width: 100%;
+    font-size: 20px;
+    padding-left: 20px;
+    font-weight: bold;
+}

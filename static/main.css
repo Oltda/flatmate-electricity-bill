@@ -1,0 +1,54 @@
+
+h2 {
+    color: darkgrey;
+    text-align: center;
+    font-size: 50px;
+}
+
+input[type=text] {
+    width: 100%;
+    padding: 8px 8px;
+    margin: 10px 0px;
+
+
+}
+
+input[type=submit] {
+    width: 100%;
+    background-color: YellowGreen;
+    color: white;
+    padding: 12px 12px;
+    border: none;
+    border-radius: 6px;
+    font-size: 20px;
+
+}
+
+input[type=submit]:hover {
+    background-color: grey;
+    cursor: pointer;
+}
+
+body {
+    background-color: GhostWhite;
+    padding: 20px;
+}
+
+
+div {
+    margin-top: 30px;
+    position: relative;
+    background-color: CornflowerBlue;
+    width: 100%;
+    padding: 10px 10px;
+
+
+    border-radius: 10px;
+}
+
+p{
+    width: 100%;
+    font-size: 20px;
+    padding-left: 20px;
+    font-weight: bold;
+}
